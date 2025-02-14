@@ -147,7 +147,7 @@ export const DATA = {
       dates: "Nov 2024",
       active: true,
       description:
-        "We built an AI-powered dynamic infographic generator that transforms data into engaging visual stories. Using Next.js and Gemini API, we created an animated interface for seamless data storytelling.",
+        "Developed a static HTML/CSS replica of the Netflix homepage, demonstrating proficiency in front-end web development and basic design principles.",
       technologies: ["Next.Js", "Javascript", "TailwindCSS", "Gemini API"],
       links: [
         {
@@ -165,7 +165,7 @@ export const DATA = {
       dates: "Nov 2024 - Ongoing",
       active: true,
       description:
-        "We built FLERN, a fun and interactive learning platform that simplifies complex concepts with engaging quizzes and personalized feedback. Using MERN, LangChain, and Gemini API, we made learning accessible and enjoyable for everyone.",
+        "A full-stack web application designed to provide individuals and businesses with easy access to legal advice, services, and documentation.",
       technologies: [
         "MERN",
         "Javascript",
@@ -182,12 +182,12 @@ export const DATA = {
       video: "",
     },
     {
-      title: "Donation",
+      title: "StayPawsitive",
       href: "https://github.com/patilarya76/donation",
       dates: "Aug 2024 ",
       active: true,
       description:
-        "Rosenau was created to simplify frontend development and web design by bringing together all the essential tools in one place. I developed this platform to help you avoid the frustration of searching for reliable resources, so you can focus on building great projects.",
+        "Developed a visually appealing and user-friendly website using HTML and CSS, featuring a responsive design that adapts seamlessly to different screen sizes and incorporates a unique CSS animation for an engaging user experience.",
       technologies: ["Next.js", "Javascript", "TailwindCSS"],
       links: [
         // {
@@ -210,7 +210,7 @@ export const DATA = {
       dates: "Mar 2024 - Ongoing",
       active: true,
       description:
-        "I developed Hogwarts, a SaaS e-learning platform that companies can purchase to facilitate online learning for their students, providing comprehensive tools and resources for effective education delivery",
+        "Gained hands-on experience in full-stack development, API development, leveraging technologies like React, Node.js, and MongoDB to build a scalable and dynamic platform.",
       technologies: [
         "React.js",
         "Javascript",
@@ -307,7 +307,7 @@ export const DATA = {
       dates: "Jan 2024 - July 2024",
       active: true,
       description:
-        "I developed Funkyfumbles, a social media platform where you can upload and share awkward dance moves, and have fun viewing posts from others.",
+        "Designed and developed Aero Block Adventure, a basic 2D game that challenges players with navigating obstacles and collecting rewards to progress through levels.",
       technologies: [
         // "React.js",
         "HTML5",
