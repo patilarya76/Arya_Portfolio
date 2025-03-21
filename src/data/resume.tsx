@@ -221,16 +221,16 @@ export const DATA = {
         
       ],
       links: [
-        // {
-        //   type: "Website",
-        //   href: "https://hogwarts.mugilans.in/",
-        //   icon: <Icons.globe className="size-3" />,
-        // },
-        // {
-        //   type: "Source",
-        //   href: "https://bloomconect.netlify.app/",
-        //   icon: <Icons.github className="size-3" />,
-        // },
+        {
+          type: "Website",
+          href: "https://hogwarts.mugilans.in/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://bloomconect.netlify.app/",
+          icon: <Icons.github className="size-3" />,
+        },
       ],
       image: "/Bloom.png",
       video: "",
