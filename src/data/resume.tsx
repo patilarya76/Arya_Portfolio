@@ -1,7 +1,7 @@
 import { Icons } from "@/components/icons";
 import { Certificate } from "crypto";
 import { CodeIcon, HomeIcon, NotebookIcon, PencilLine } from "lucide-react";
-import { title } from "process";
+// import { title } from "process";
 
 export const DATA = {
   name: "Arya Patil",
@@ -150,11 +150,11 @@ export const DATA = {
         "Developed a static HTML/CSS replica of the Netflix homepage, demonstrating proficiency in front-end web development and basic design principles.",
       technologies: ["Next.Js", "Javascript", "TailwindCSS", "Gemini API"],
       links: [
-        {
-          type: "Source",
-          href: "https://patilarya76.github.io/Netflix/",
-          icon: <Icons.github className="size-3" />,
-        },
+        // {
+        //   type: "Source",
+        //   href: "https://patilarya76.github.io/Netflix/",
+        //   icon: <Icons.github className="size-3" />,
+        // },
       ],
       image: "/Netflix logo.png",
       video: "",
@@ -195,11 +195,11 @@ export const DATA = {
         //   href: "https://rosenau.mugilans.in/",
         //   icon: <Icons.globe className="size-3" />,
         // },
-        {
-          type: "Source",
-          href: "http://127.0.0.1:5500/donation/index.html/",
-          icon: <Icons.github className="size-3" />,
-        },
+        // {
+        //   type: "Source",
+        //   href: "http://127.0.0.1:5500/donation/index.html/",
+        //   icon: <Icons.github className="size-3" />,
+        // },
       ],
       image: "/Donation from Portfoliotemp.png",
       video: "",
@@ -226,11 +226,11 @@ export const DATA = {
         //   href: "https://hogwarts.mugilans.in/",
         //   icon: <Icons.globe className="size-3" />,
         // },
-        {
-          type: "Source",
-          href: "https://bloomconect.netlify.app/",
-          icon: <Icons.github className="size-3" />,
-        },
+        // {
+        //   type: "Source",
+        //   href: "https://bloomconect.netlify.app/",
+        //   icon: <Icons.github className="size-3" />,
+        // },
       ],
       image: "/Bloom.png",
       video: "",
@@ -327,11 +327,11 @@ export const DATA = {
         //   href: "https://funkyfumbles.netlify.app/",
         //   icon: <Icons.globe className="size-3" />,
         // },
-        {
-          type: "Source",
-          href: "https://patilarya76.github.io/FEWD-CA2/",
-          icon: <Icons.github className="size-3" />,
-        },
+        // {
+        //   type: "Source",
+        //   href: "https://patilarya76.github.io/FEWD-CA2/",
+        //   icon: <Icons.github className="size-3" />,
+        // },
       ],
       image: "/Aero (1).png",
       video: "",
