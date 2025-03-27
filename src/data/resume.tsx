@@ -26,7 +26,10 @@ export const DATA = {
     "Python",
     "C++",
     "Figma",
-    "Canva"
+    "Canva",
+    "TailwindCSS",
+    "Framer Motion",
+  
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -142,21 +145,21 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Netflix Clone",
-      href: "https://github.com/patilarya76/Netflix",
-      dates: "Nov 2024",
+      title: "StyleStore",
+      href: "https://github.com/patilarya76/ChannelBlend_AryaPatil",
+      dates: "March 2025",
       active: true,
       description:
-        "Developed a static HTML/CSS replica of the Netflix homepage, demonstrating proficiency in front-end web development and basic design principles.",
-      technologies: ["Next.Js", "Javascript", "TailwindCSS", "Gemini API"],
+        "A modern, full-stack e-commerce platform designed to provide a seamless and responsive shopping experience. Developed a robust frontend with React.js and optimized backend services using Node.js and Express.js, integrated with a MongoDB database for efficient data management.",
+      technologies: ["React.js, Node.js, Express.js, MongoDB, TailwindCSS, Framer Motion"],
       links: [
-        // {
-        //   type: "Source",
-        //   href: "https://patilarya76.github.io/Netflix/",
-        //   icon: <Icons.github className="size-3" />,
-        // },
+        {
+          type: "Source",
+          href: "https://channel-blend-arya-patil-pwqc-cyrx4h8vn-arya-patils-projects.vercel.app/",
+          icon: <Icons.github className="size-3" />,
+        },
       ],
-      image: "/Netflix logo.png",
+      image: "/stylestore.png",
       video: "",
     },
     {
@@ -182,13 +185,31 @@ export const DATA = {
       video: "",
     },
     {
+      title: "Netflix Clone",
+      href: "https://github.com/patilarya76/Netflix",
+      dates: "Nov 2024",
+      active: true,
+      description:
+        "Developed a static HTML/CSS replica of the Netflix homepage, demonstrating proficiency in front-end web development and basic design principles.",
+      technologies: ["Html", "Javascript", "CSS"],
+      links: [
+        // {
+        //   type: "Source",
+        //   href: "https://patilarya76.github.io/Netflix/",
+        //   icon: <Icons.github className="size-3" />,
+        // },
+      ],
+      image: "/Netflix logo.png",
+      video: "",
+    },
+    {
       title: "StayPawsitive",
       href: "https://github.com/patilarya76/donation",
       dates: "Aug 2024 ",
       active: true,
       description:
         "Developed a visually appealing and user-friendly website using HTML and CSS, featuring a responsive design that adapts seamlessly to different screen sizes and incorporates a unique CSS animation for an engaging user experience.",
-      technologies: ["Next.js", "Javascript", "TailwindCSS"],
+      technologies: ["Html", "Javascript", "CSS"],
       links: [
         // {
         //   type: "Website",
